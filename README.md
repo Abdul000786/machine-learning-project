@@ -29,17 +29,17 @@ git add <file_name>
 Note: to ignore file or folder from git we can write name of file/folder in .gitignore file
 
 to check the git staus
-''
+'''
 git status
-''
+'''
 to check all version maintained by git 
-''
+'''
 git log
-''
+'''
 to create version/commit all changes by git
-''
-git commit -m 'message'
-''
+'''
+git commit -m "message"
+'''
 '''
 to send version/changes to github
 '''
