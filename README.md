@@ -96,3 +96,9 @@ docker stop <container_id>
 '''
 python setup.py install
 '''
+
+
+Install ipynbkernal 
+
+'''
+pip install ipykernel
